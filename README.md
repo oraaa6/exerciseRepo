@@ -1,1 +1,1 @@
-# exerciseRepo
+# paragon z warzywniaka
